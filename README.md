@@ -1,2 +1,2 @@
-# PGAIMLJan2020_aananthymanoharan
-Assignments and Projects done as part of PGP AIML Diploma at Great Learning
+# pgpaiml-chennai-jan20-aananthymanoharan
+pgpaiml-chennai-jan20-aananthymanoharan created by GitHub Classroom
